@@ -1,0 +1,2 @@
+recursive-include bttf *.c *.h *.py
+include LICENSE.txt
